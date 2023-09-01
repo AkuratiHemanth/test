@@ -1,5 +1,0 @@
-{{#user}}
-Name: Akurati Hemanth
-Skills: Python, MATLAB, Statistics, Data visualization, TensorFlow, PyTorch, Linear Algebra
-Email: hemanthhemanth2509@gmail.com
-{{/user}}
